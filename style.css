@@ -1,0 +1,17 @@
+.aaaa{
+    width: 1230px;
+    display: flex;
+    flex-direction: column;
+    margin: auto auto;
+    position: relative;
+}
+.menu1 .btn-primary{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+
+}
+.menu1{
+   position: sticky;
+   bottom: 0px;
+}
